@@ -1,0 +1,11 @@
+Working Settings on Taz5 with ABS
+
+ABS Plastic (Village Plastics)
+Set to High Detail.
+
+Clip cases will need supports (2mm spacing between supports, the top case nees .6mm XY spacing)
+Clip will need a Brim (2mm @ 4 lines)
+
+Otherwise, use sample gcode in folder.
+The Insert cases were set at a more rough setting.
+The Clip cases are the original gcode files.

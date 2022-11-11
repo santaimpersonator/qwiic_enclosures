@@ -1,0 +1,17 @@
+Clearance Measurements:
+
+Board Height - 2.00mm
+Qwiic Connect Jack - 3.50mm x 7.00mm
+Casing Offset - 4.50mm
+
+Insert Hole - 4.20mm (Diameter)
+            - 3.60mm (Height)
+4-40 Screw Hole - 3.05mm (Diameter Drill Shaft)
+                - 5.30mm (Diameter Head Clearance)
+                - 2.25mm (Height Head Recess)
+Header Box Hole - 2.25mm (Top for Tips)
+                - 2.60mm (Bottom for Shroud Height)
+
+Related Parts:
+SPX-14617	Brass Heat-Set Inserts - #4-40 x 0.135" (50pcs)
+PRT-10453	Screw - Phillips Head (1/4", 4-40, 10 pack)

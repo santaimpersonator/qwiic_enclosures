@@ -1,0 +1,25 @@
+As of 3/2/2018
+
+These case should be compatible with the following Qwiic connect boards/sensors:
+
+SparkX:
+SPX-14294	Qwiic Magnetometer - MLX90393
+SPX-14248	Qwiic Accelerometer - MMA8452Q
+SPX-14264	Qwiic UV Sensor - ZOPT2201
+SPX-14570	Environmental Sensor (Qwiic) - BME680
+SPX-14568	Grid-EYE Infrared Array (Qwiic) - AMG8833
+SPX-14569	Infrared Non-contact Thermometer (Qwiic) - MLX90632
+SPX-14343	Qwiic Distance Sensor - RFD77402
+
+SparkX Retired: Moved to SparkFun Original
+SPX-14568	Qwiic Air Quality Combo Board - CCS811 + BME280
+SPX-14290	Qwiic Visible Spectral Sensor - AS7262
+SPX-14241	Qwiic Air Quality Combo Board - CCS811 + BME280
+
+SparkFun:
+SEN-14348	SparkFun Environmental Combo Breakout - CCS811/BME280 (Qwiic)
+SEN-14347	SparkFun Spectral Sensor Breakout - AS7262 Visible (Qwiic)
+SEN-14351	SparkFun Spectral Sensor Breakout - AS7263 NIR (Qwiic)
+
+(Not updated for yet)
+SPX-14641	Qwiic OpenLog
